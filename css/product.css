@@ -10824,3 +10824,55 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+/* 
+.walsh-flex-nav-buttons {
+  grid-column-gap: 10px;
+  justify-content: left;
+  align-items: center;
+  display: flex;
+}
+
+.wrapper-button {
+  grid-column-gap: .5em;
+  grid-row-gap: .5em;
+  align-items: center;
+  display: flex;
+}
+
+.button-text {
+  font-family: var(--main-text);
+  color: black;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  font-size: 1em;
+  font-weight: 700;
+  line-height: 1.2em;
+}
+
+.button-trans {
+  outline-offset: 0px;
+  color: var(--flowui-component-library-white);
+  text-align: center;
+  letter-spacing: -.02em;
+  background-color: rgba(19, 36, 48, 0);
+  border-radius: 100px;
+  outline: 2px solid rgba(0, 0, 0, 0);
+  justify-content: center;
+  align-items: center;
+  padding: 1.2em 1.9em;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  text-decoration: none;
+  transition: all .2s;
+  display: flex;
+}
+
+.button-trans:hover {
+  border: 1.5px solid var(--light-text-1);
+} */
+
+.w-inline-block {
+  max-width: 100%;
+  display: inline-block;
+}
